@@ -56,3 +56,12 @@ Get home before nightfall.
 **Fatema-Zahra Rizki**
 
 Made as part of the Hack Club Jumpstart Godot game project.
+
+
+
+
+
+# Play Before Nightfall
+
+[Click here to play Before Nightfall](https://fatema-zahrarizki.itch.io/before-nightfall)
+
